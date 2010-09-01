@@ -49,7 +49,7 @@ configure do
 end
 
 get '/' do
-  'This is the CloudApp updates suite.'
+  'This is the CloudApp updates suite, we are making it pretty, don\'t worry.'
 end
 
 get '/update.xml' do
@@ -58,32 +58,10 @@ get '/update.xml' do
       Sparkle.new(request.params.clone.rename('model' => 'compModel')).save
     end
   rescue Exception
-  
+
   ensure
     redirect '/feed.xml'
   end
-end
-# 
-# get '/update.xml' do
-# begin
-# unless params.empty?
-# Sparkle.new(request.params.clone.rename('model' => 'compModel')).save
-# end
-# rescue Exception
-# ensure
-# redirect '/feed.xml'
-# end
-# end
-
-get '/update.xml' do
-  begin
-    unless params.empty?
-      Sparkle.new(request.params.clone.rename('model' => 'compModel')).save
-    end
-  rescue Exception
-    ensure
-      redirect '/feed.xml'
-    end
 end
 
 get '/feed.xml' do
@@ -94,7 +72,7 @@ end
 
 get '/admin' do
   ensure_authenticated
-  
+
   @sparkles = Sparkle.all
 
   haml :admin
