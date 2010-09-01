@@ -7,7 +7,7 @@ enable :sessions
 use Warden::Manager do |manager|
   manager.default_strategies :google_apps
   manager.failure_app = BadAuthentication
-  manager[:google_apps_domain]   = 'getbaseapp.com'
+  manager[:google_apps_domain]   = 'bylinebreak.com'
 end
 
 helpers do
