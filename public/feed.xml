@@ -31,6 +31,16 @@
       </item>
     
       <item>
+        <title>CloudApp Mona Lisa 1.0.3</title>
+
+        <sparkle:releaseNotesLink>http://sparkler.getcloudapp.com/notes/releases/mona-lisa-103</sparkle:releaseNotesLink>
+
+        <pubDate>2010-03-31T00:00:00+02:00</pubDate>
+
+        <enclosure length="1671447" sparkle:dsaSignature="MCwCFCLJhaRvIcasJSucOU+Cm+QwRR/5AhQPmhBvVgyrlt2CQPXvHtPonD39ZQ==" sparkle:version="1.0.3" type="application/octet-stream" url="http://f.cl.ly.s3.amazonaws.com/builds/CloudApp1.0.3.zip" />
+      </item>
+    
+      <item>
         <title>CloudApp Mona Lisa 1.0</title>
 
         <sparkle:releaseNotesLink>http://sparkler.getcloudapp.com/notes/releases/mona-lisa-100</sparkle:releaseNotesLink>
