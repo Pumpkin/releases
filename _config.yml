@@ -1,5 +1,5 @@
 auto: true
 destination: ./public
-exclude: [ config.ru, Gemfile, main.rb, README.md, sparkle.sqlite, views ]
+exclude: [ auth.rb, config.ru, Gemfile, main.rb, README.md, sparkle.sqlite, views ]
 permalink: /releases/:title
-server: true
+server: false
