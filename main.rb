@@ -70,6 +70,12 @@ get '/feed.xml' do
   File.read('public/feed.xml')
 end
 
+get '/releases/:release' do
+  response.headers['Cache-Control'] = 'public, max-age=31557600'
+  
+  File.read("public/#{ params[:release] }index.html")
+end
+
 get '/admin' do
   ensure_authenticated
 
