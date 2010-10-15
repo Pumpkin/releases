@@ -4,12 +4,7 @@ gem 'sinatra'
 
 gem 'dm-core'
 gem 'dm-migrations'
+gem 'dm-postgres-adapter'
 gem 'dm-timestamps'
+gem 'dm-sqlite-adapter'
 gem 'haml'
-gem 'warden-googleapps'
-
-gem 'dm-postgres-adapter' unless ENV['SPARKLER']
-
-if ENV['SPARKLER']
-  gem 'dm-sqlite-adapter'
-end

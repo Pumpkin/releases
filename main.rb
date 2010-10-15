@@ -14,8 +14,6 @@ configure :production do
   require 'dm-postgres-adapter'
 end
 
-require 'auth'
-
 class Hash
   def rename(old_to_new)
     old_to_new.each do |old, new|
@@ -70,16 +68,8 @@ get '/feed.xml' do
   File.read('public/feed.xml')
 end
 
-get '/releases/:release' do
+get '/releases/:release/?' do
   response.headers['Cache-Control'] = 'public, max-age=31557600'
   
-  File.read("public/#{ params[:release] }/index.html")
-end
-
-get '/admin' do
-  ensure_authenticated
-
-  @sparkles = Sparkle.all
-
-  haml :admin
+  File.read("public/releases/#{ params[:release] }/index.html")
 end
