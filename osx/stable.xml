@@ -7,7 +7,7 @@ layout: nil
   <channel>
     <title>CloudApp Updates</title>
 
-    <link>http://sparkler.getcloud.me/stable.xml</link>
+    <link>http://releases.getcloud.me/osx/stable.xml</link>
 
     <description>Most recent changes with links to updates.</description>
 
@@ -18,7 +18,7 @@ layout: nil
         <item>
           <title>{{ post.title }}</title>
 
-          <sparkle:releaseNotesLink>http://sparkler.getcloud.me{{ post.url }}</sparkle:releaseNotesLink>
+          <sparkle:releaseNotesLink>http://releases.getcloud.me{{ post.url }}</sparkle:releaseNotesLink>
 
           <pubDate>{{ post.date | date_to_xmlschema }}</pubDate>
 

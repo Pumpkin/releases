@@ -3,5 +3,5 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
-permalink: /:title
+permalink: none
 url: http://sprarkler.getcloud.me
