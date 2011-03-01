@@ -1,10 +1,4 @@
 source :gemcutter
 
-gem 'sinatra'
-
-gem 'dm-core'
-gem 'dm-migrations'
-gem 'dm-postgres-adapter'
-gem 'dm-timestamps'
-gem 'dm-sqlite-adapter'
-gem 'haml'
+gem 'liquid', '2.2.0'
+gem 'rack-jekyll'
