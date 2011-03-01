@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>CloudApp Updates</title>
+
+    <link>http://sparkler.getcloud.me/beta.xml</link>
+
+    <description>Most recent changes with links to updates.</description>
+
+    <language>en</language>
+
+    
+      
+        <item>
+          <title>CloudApp 1.5</title>
+
+          <sparkle:releaseNotesLink>http://sparkler.getcloud.me/150-b1</sparkle:releaseNotesLink>
+
+          <pubDate>2011-03-01T00:00:00+01:00</pubDate>
+
+          <enclosure length="1642794" sparkle:dsaSignature="MCwCFBvABjD3Wf7Me+2U4NbbMIBOCmeMAhQyNqKkwHqmJq6ZzXClojFp6DNevg==" sparkle:version="1.5" type="application/octet-stream" url="http://f.cl.ly.s3.amazonaws.com/builds/CloudApp1.5b2.zip" />
+        </item>
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  </channel>
+</rss>
