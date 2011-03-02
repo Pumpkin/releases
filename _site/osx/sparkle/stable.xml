@@ -14,11 +14,23 @@
         <item>
           <title>CloudApp 1.5b2</title>
 
+          <sparkle:releaseNotesLink>http://releases.getcloud.me/osx/150-b2.html</sparkle:releaseNotesLink>
+
+          <pubDate>2011-03-02T00:00:00+01:00</pubDate>
+
+          <enclosure length="1680973" sparkle:dsaSignature="MC0CFCyMpuWB3qIhAKK/1T4pLVU8Ojz6AhUAi6I/dJmw4nN6+Xr3KwhBJ+wCIf8=" sparkle:version="1.5b2" type="application/octet-stream" url="http://scratch.phaps.net/Cloud 1.5b2.zip" />
+        </item>
+      
+    
+      
+        <item>
+          <title>CloudApp 1.5b1</title>
+
           <sparkle:releaseNotesLink>http://releases.getcloud.me/osx/150-b1.html</sparkle:releaseNotesLink>
 
-          <pubDate>2011-03-01T00:00:00+01:00</pubDate>
+          <pubDate>2011-03-02T00:00:00+01:00</pubDate>
 
-          <enclosure length="1642794" sparkle:dsaSignature="MCwCFBvABjD3Wf7Me+2U4NbbMIBOCmeMAhQyNqKkwHqmJq6ZzXClojFp6DNevg==" sparkle:version="1.5b2" type="application/octet-stream" url="http://f.cl.ly.s3.amazonaws.com/builds/CloudApp1.5b2.zip" />
+          <enclosure length="1680973" sparkle:dsaSignature="MCwCFFTQT4rKukqo16UeFJU9k3XxUJ3GAhRHUPZ/5Fyu0DXSL4bOuS8jo0/Gdw==" sparkle:version="1.5b1" type="application/octet-stream" url="http://f.cl.ly.s3.amazonaws.com/builds/CloudApp1.5b1.zip" />
         </item>
       
     
