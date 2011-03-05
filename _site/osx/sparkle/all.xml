@@ -17,7 +17,7 @@
 
         <pubDate>2011-03-02T00:00:00+01:00</pubDate>
 
-        <enclosure length="1681047" sparkle:dsaSignature="MC4CFQDvYym/b+206GqM+zJmV2HcQey7qwIVAISDThsPz05S7zrdJ3kM+kRzdCIx" sparkle:version="1.5b1" type="application/octet-stream" url="http://f.cl.ly.s3.amazonaws.com/builds/CloudApp1.5b1.zip" />
+        <enclosure length="1701813" sparkle:dsaSignature="MC4CFQDZwOH1uDlT42bhEeKzatGPTV+P4AIVAMiqlqz6pBpZ76/gibxYClxELDXb" sparkle:version="1.5b1" type="application/octet-stream" url="http://f.cl.ly.s3.amazonaws.com/builds/CloudApp1.5b1.zip" />
       </item>
     
   </channel>
