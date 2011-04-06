@@ -16,7 +16,7 @@
 
           <sparkle:releaseNotesLink>http://releases.getcloud.me/osx/150-b2.html</sparkle:releaseNotesLink>
 
-          <pubDate>2011-03-02T00:00:00+01:00</pubDate>
+          <pubDate>2011-04-06T00:00:00+02:00</pubDate>
 
           <enclosure length="1733592" sparkle:dsaSignature="MC4CFQDrSYn80lot3zWwV04Gqf7ZTHmKBwIVAKlqoqoLY4j0O1EJKNtXgmzAcXfJ" sparkle:version="1.5b2" type="application/octet-stream" url="http://f.cl.ly.s3.amazonaws.com/builds/CloudApp1.5b2.zip" />
         </item>
