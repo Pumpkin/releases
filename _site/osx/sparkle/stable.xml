@@ -3,7 +3,7 @@
   <channel>
     <title>CloudApp Updates</title>
 
-    <link>http://releases.getcloud.me/osx/stable.xml</link>
+    <link>http://releases.getcloudapp.com/osx/stable.xml</link>
 
     <description>Most recent changes with links to updates.</description>
 
@@ -11,27 +11,7 @@
 
     
       
-        <item>
-          <title>CloudApp 1.5b2</title>
-
-          <sparkle:releaseNotesLink>http://releases.getcloud.me/osx/150-b2.html</sparkle:releaseNotesLink>
-
-          <pubDate>2011-04-06T00:00:00+02:00</pubDate>
-
-          <enclosure length="1733592" sparkle:dsaSignature="MC4CFQDrSYn80lot3zWwV04Gqf7ZTHmKBwIVAKlqoqoLY4j0O1EJKNtXgmzAcXfJ" sparkle:version="1.5b2" type="application/octet-stream" url="http://f.cl.ly.s3.amazonaws.com/builds/CloudApp1.5b2.zip" />
-        </item>
-      
     
-      
-        <item>
-          <title>CloudApp 1.5b1</title>
-
-          <sparkle:releaseNotesLink>http://releases.getcloud.me/osx/150-b1.html</sparkle:releaseNotesLink>
-
-          <pubDate>2011-03-02T00:00:00+01:00</pubDate>
-
-          <enclosure length="1701813" sparkle:dsaSignature="MC4CFQDZwOH1uDlT42bhEeKzatGPTV+P4AIVAMiqlqz6pBpZ76/gibxYClxELDXb" sparkle:version="1.5b1" type="application/octet-stream" url="http://f.cl.ly.s3.amazonaws.com/builds/CloudApp1.5b1.zip" />
-        </item>
       
     
   </channel>

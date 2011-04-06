@@ -3,7 +3,7 @@
   <channel>
     <title>CloudApp Updates</title>
 
-    <link>http://releases.getcloud.me/osx/all.xml</link>
+    <link>http://releases.getcloudapp.com/osx/all.xml</link>
 
     <description>Most recent changes with links to updates.</description>
 
@@ -13,7 +13,7 @@
       <item>
         <title>CloudApp 1.5b2</title>
 
-        <sparkle:releaseNotesLink>http://releases.getcloud.me/osx/150-b2.html</sparkle:releaseNotesLink>
+        <sparkle:releaseNotesLink>http://releases.getcloudapp.com/osx/150-b2.html</sparkle:releaseNotesLink>
 
         <pubDate>2011-04-06T00:00:00+02:00</pubDate>
 
@@ -23,7 +23,7 @@
       <item>
         <title>CloudApp 1.5b1</title>
 
-        <sparkle:releaseNotesLink>http://releases.getcloud.me/osx/150-b1.html</sparkle:releaseNotesLink>
+        <sparkle:releaseNotesLink>http://releases.getcloudapp.com/osx/150-b1.html</sparkle:releaseNotesLink>
 
         <pubDate>2011-03-02T00:00:00+01:00</pubDate>
 
