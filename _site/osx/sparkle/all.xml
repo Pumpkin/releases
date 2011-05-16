@@ -11,6 +11,16 @@
 
     
       <item>
+        <title>CloudApp 1.5.1b1</title>
+
+        <sparkle:releaseNotesLink>http://releases.getcloudapp.com/osx/151-b1.html</sparkle:releaseNotesLink>
+
+        <pubDate>2011-05-17T00:00:00+02:00</pubDate>
+
+        <enclosure length="1730322" sparkle:dsaSignature="MC4CFQCSPgsQuPVwitG/Bbxpa+QMVApTTAIVAK2VsXmSPIvY+2pTTp8fCDnU9SQd" sparkle:version="1.5.1b1" type="application/octet-stream" url="http://f.cl.ly.s3.amazonaws.com/builds/CloudApp1.5.1b1.zip" />
+      </item>
+    
+      <item>
         <title>CloudApp 1.5</title>
 
         <sparkle:releaseNotesLink>http://releases.getcloudapp.com/osx/150.html</sparkle:releaseNotesLink>
