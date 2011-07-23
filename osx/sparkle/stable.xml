@@ -19,6 +19,7 @@ layout: nil
           <title>{{ post.title }}</title>
 
           <sparkle:releaseNotesLink>http://releases.getcloudapp.com{{ post.url }}</sparkle:releaseNotesLink>
+          <sparkle:minimumSystemVersion>{{ post.system_version }}</sparkle:minimumSystemVersion>
 
           <pubDate>{{ post.date | date_to_xmlschema }}</pubDate>
 
