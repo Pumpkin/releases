@@ -11,6 +11,19 @@
 
     
       
+        <item>
+          <title>CloudApp 1.5.4</title>
+
+          <sparkle:releaseNotesLink>http://releases.getcloudapp.com/osx/154.html</sparkle:releaseNotesLink>
+          <sparkle:minimumSystemVersion></sparkle:minimumSystemVersion>
+
+          <pubDate>2012-08-10T00:00:00-07:00</pubDate>
+
+          <enclosure length="1992627" sparkle:dsaSignature="MC0CFQDG0abA6GcP8/hJsj7eNaLn3jUaFwIUYg7WCwJOC1VrxOQiz6A33CakEeI=" sparkle:version="1.5.4" type="application/octet-stream" url="http://f.cl.ly.s3.amazonaws.com/builds/CloudApp1.5.4.zip" />
+        </item>
+      
+    
+      
     
       
     
@@ -21,7 +34,7 @@
           <sparkle:releaseNotesLink>http://releases.getcloudapp.com/osx/153.html</sparkle:releaseNotesLink>
           <sparkle:minimumSystemVersion>10.6.5</sparkle:minimumSystemVersion>
 
-          <pubDate>2012-01-19T00:00:00+01:00</pubDate>
+          <pubDate>2012-01-19T00:00:00-08:00</pubDate>
 
           <enclosure length="1796270" sparkle:dsaSignature="MC0CFEc7F5HQUgbU8LjeYwUg4hLl4rY/AhUAi8g5qBUq12REwqsVgOcMkMtwOXw=" sparkle:version="1.5.3" type="application/octet-stream" url="http://f.cl.ly.s3.amazonaws.com/builds/CloudApp1.5.3.zip" />
         </item>
@@ -44,7 +57,7 @@
           <sparkle:releaseNotesLink>http://releases.getcloudapp.com/osx/151.html</sparkle:releaseNotesLink>
           <sparkle:minimumSystemVersion>10.6.5</sparkle:minimumSystemVersion>
 
-          <pubDate>2011-05-26T00:00:00+02:00</pubDate>
+          <pubDate>2011-05-26T00:00:00-07:00</pubDate>
 
           <enclosure length="1729976" sparkle:dsaSignature="MC0CFEzrVq1UNZsu1Hr8/F4hKEM5hlURAhUA3moMTfRbGZU+JlX9rsIrRzYYrnU=" sparkle:version="1.5.1" type="application/octet-stream" url="http://f.cl.ly.s3.amazonaws.com/builds/CloudApp1.5.1.zip" />
         </item>
@@ -59,7 +72,7 @@
           <sparkle:releaseNotesLink>http://releases.getcloudapp.com/osx/150.html</sparkle:releaseNotesLink>
           <sparkle:minimumSystemVersion>10.6.5</sparkle:minimumSystemVersion>
 
-          <pubDate>2011-05-02T00:00:00+02:00</pubDate>
+          <pubDate>2011-05-02T00:00:00-07:00</pubDate>
 
           <enclosure length="1724266" sparkle:dsaSignature="MC4CFQCOjxr2ryIOPpKgOdseAZNvt1+W6QIVANSYjucC+wii/tARbqU+RXtT9lwm" sparkle:version="1.5" type="application/octet-stream" url="http://f.cl.ly.s3.amazonaws.com/builds/CloudApp1.5.zip" />
         </item>
