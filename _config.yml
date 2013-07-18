@@ -3,5 +3,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
+  - vendor
 permalink: none
 url: http://releases.getcloud.me
