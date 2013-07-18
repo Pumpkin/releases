@@ -1,4 +1,4 @@
-source :gemcutter
+source 'https://rubygems.org'
 
-gem 'liquid', '2.2.0'
+gem 'liquid'
 gem 'rack-jekyll'
